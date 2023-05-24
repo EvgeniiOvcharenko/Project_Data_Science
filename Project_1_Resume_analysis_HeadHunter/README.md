@@ -2,11 +2,11 @@
 
 ## Содержание
 
-1. [Описание проекта](https://github.com/EvgeniiOvcharenko/Project_Data_Science/blob/master/Project_1_Resume_analysis_HeadHunter/README.md#ОПИСАНИЕ-ПРОЕКТА)
-2. [Описание задачи](https://github.com/EvgeniiOvcharenko/Project_Data_Science/blob/master/Project_1_Resume_analysis_HeadHunter/README.md#ОПИСАНИЕ-ЗАДАЧИ)
-3. [Описание данных](https://github.com/EvgeniiOvcharenko/Project_Data_Science/blob/master/Project_1_Resume_analysis_HeadHunter/README.md#ОПИСАНИЕ-ДАННЫХ)
-4. [Результат](https://github.com/EvgeniiOvcharenko/Project_Data_Science/blob/master/Project_1_Resume_analysis_HeadHunter/README.md#РЕЗУЛЬТАТ)
-5. [Выводы](https://github.com/EvgeniiOvcharenko/Project_Data_Science/blob/master/Project_1_Resume_analysis_HeadHunter/README.md#ВЫВОДЫ)
+1. [Описание проекта](https://github.com/EvgeniiOvcharenko/Project_Data_Science/blob/master/Project_1_Resume_analysis_HeadHunter/README.md#Описание-проекта)
+2. [Описание задачи](https://github.com/EvgeniiOvcharenko/Project_Data_Science/blob/master/Project_1_Resume_analysis_HeadHunter/README.md#Описание-задачи)
+3. [Описание данных](https://github.com/EvgeniiOvcharenko/Project_Data_Science/blob/master/Project_1_Resume_analysis_HeadHunter/README.md#Описание-данных)
+4. [Результат](https://github.com/EvgeniiOvcharenko/Project_Data_Science/blob/master/Project_1_Resume_analysis_HeadHunter/README.md#Результат)
+5. [Выводы](https://github.com/EvgeniiOvcharenko/Project_Data_Science/blob/master/Project_1_Resume_analysis_HeadHunter/README.md#Выводы)
 
 ## 1. Описание проекта
 
