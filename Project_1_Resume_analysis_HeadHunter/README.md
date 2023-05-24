@@ -2,11 +2,11 @@
 
 ## Содержание
 
-1. Описание проекта
-2. Описание задачи
-3. Описание данных
-4. Результат
-5. Выводы
+1. [Описание проекта](https://github.com/EvgeniiOvcharenko/Project_Data_Science/blob/master/Project_1_Resume_analysis_HeadHunter/README.md#ОПИСАНИЕ-ПРОЕКТА)
+2. [Описание задачи](https://github.com/EvgeniiOvcharenko/Project_Data_Science/blob/master/Project_1_Resume_analysis_HeadHunter/README.md#ОПИСАНИЕ-ЗАДАЧИ)
+3. [Описание данных](https://github.com/EvgeniiOvcharenko/Project_Data_Science/blob/master/Project_1_Resume_analysis_HeadHunter/README.md#ОПИСАНИЕ-ДАННЫХ)
+4. [Результат](https://github.com/EvgeniiOvcharenko/Project_Data_Science/blob/master/Project_1_Resume_analysis_HeadHunter/README.md#РЕЗУЛЬТАТ)
+5. [Выводы](https://github.com/EvgeniiOvcharenko/Project_Data_Science/blob/master/Project_1_Resume_analysis_HeadHunter/README.md#ВЫВОДЫ)
 
 ## 1. Описание проекта
 
@@ -60,7 +60,7 @@
 
 ## 4. Выводы
 
-В данном проекте была проведена работа по исследованию b очистке данных предоставленных hh.ru. 
+В данном проекте была проведена работа по исследованию и очистке данных предоставленных hh.ru. 
 
 Были преобразованны старые признаки данных, вследствии чего  были  сформированы новые признаки,  по которым был осуществлен анализ, исследования и визаулизация.
 
