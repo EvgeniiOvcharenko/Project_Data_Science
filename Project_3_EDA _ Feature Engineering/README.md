@@ -23,3 +23,24 @@
 ## 3. Описание данных
 
 Исходные данные находятся [здесьпо данной ссылке](https://www.kaggle.com/competitions/sf-booking/data)
+
+* hotels_train.csv - набор данных для обучения
+* hotels_test.csv - набор данных для оценки качества
+* submission.csv - файл сабмишна в нужном формате
+
+## 4. Результат
+
+* Решение представлено в ноутбуке: 
+[project-3](https://github.com/EvgeniiOvcharenko/Project_Data_Science/blob/master/Project_3_EDA%20_%20Feature%20Engineering/project-3.ipynb)
+* Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/EvgeniiOvcharenko/Project_Data_Science/blob/master/Project_3_EDA%20_%20Feature%20Engineering/requirements.txt)
+* [Ноутбук соревнования на Kaggle](https://www.kaggle.com/code/evgen14/project-3)
+
+## 5. Выводы
+
+Подготовлены данные для машинного обученя. Над данными производилась следующая работа
+ * Знакомство с данными
+ * Очистка данных и создание признаков
+ * Преобразование признаков
+ * Обучение модели
+ * Оценка качества модели
+
