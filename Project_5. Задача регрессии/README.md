@@ -55,5 +55,5 @@
 5. Решение задачи регрессии: ансамбли моделей и построение прогноза
 
 * Решение представлено в ноутбуке: 
-[project-5](https://github.com/EvgeniiOvcharenko/Project_Data_Science/blob/master/Project_5.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8/Project-5._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
+[project-5](https://github.com/EvgeniiOvcharenko/Project_Data_Science/blob/master/Project_5.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8/Project-5.%20Trip_duration.ipynb)
 * Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/EvgeniiOvcharenko/Project_Data_Science/blob/master/Project_5.%20%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0%20%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%B8/requirements.txt)
